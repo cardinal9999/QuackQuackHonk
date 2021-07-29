@@ -6,7 +6,7 @@ This is a simple Hello World program:
 print:"Hello, world!"
 ```
 ## Data types
-All programming languages have different datatypes. Here are examples:<a/>
+All programming languages have different datatypes. 
 QuackQuackHonk has 8 data types.
 
 I will not explain all of QuackQuackHonk in this file. There will soon be a QuackQuackHonk tutorial. If you know Python, then you can sure understand this programming language.
