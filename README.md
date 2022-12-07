@@ -6,8 +6,9 @@ This is a simple Hello World program:
 print:"Hello, world!"
 ```
 ## Data types
-All programming languages have different datatypes. 
-QuackQuackHonk has 8 data types.
+All programming languages have different datatypes — QuackQuackHonk has 8. The difference is that:
+
+**QuackQuackHonk stores loops and if statements in variables so they can be used multiple times.**
 ## Commands
 Most QuackQuackHonk code looks like this: <a/>
 [command]:[token] <a/>
